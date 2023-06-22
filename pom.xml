@@ -17,8 +17,6 @@
   </dependencies>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
-  <properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
 		<sonar.host.url>http://3.144.181.161:9000/</sonar.host.url>
 		<java.version>11</java.version>
